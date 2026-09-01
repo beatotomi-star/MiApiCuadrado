@@ -1,0 +1,6 @@
+@MiApiCuadrado_HostAddress = http://localhost:5122
+
+GET {{MiApiCuadrado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
